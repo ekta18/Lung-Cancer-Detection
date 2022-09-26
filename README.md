@@ -1,6 +1,6 @@
 # Lung Cancer Detection 🫁
 
-<p align="center">
+<p align="left">
     <img src="images/lung_cancer.jpg" alt="BannerImage">
 </p>
 
